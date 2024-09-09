@@ -1,0 +1,19 @@
+/* navbar.css */
+/* Style for the dark-themed Navbar */
+.navbar-dark {
+  background-color: #343a40; /* Change the background color as desired */
+  color: #ffffff; /* Change the text color as desired */
+}
+
+/* Style for the primary-themed Navbar */
+.navbar-primary {
+  background-color: #007bff; /* Change the background color as desired */
+  color: #ffffff; /* Change the text color as desired */
+}
+
+/* Style for the light-themed Navbar */
+.navbar-light {
+  background-color: #f8f9fa; /* Change the background color as desired */
+  color: #000000; /* Change the text color as desired */
+}
+
